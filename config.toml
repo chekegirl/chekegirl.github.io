@@ -1,14 +1,14 @@
 ### Default Configuration ###
 
 theme = "liva-hugo"
-baseURL = "http://localhost:1313/"
+baseURL = "https://chekegirl.github.io/home/"
 languageCode = "ja-jp"
 
-title = "静的ページのデプロイテスト"
+title = "ちぇけガールのホームページ"
 
 summaryLength = "10"  # 最初の10単語をsummaryとする
-paginate = 6
-disqusShortname = ""
+paginate = 10
+disqusShortname = ""  # コメント機能を使わない限りは関係ない
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -51,31 +51,43 @@ URL = "plugins/search/search.js"
 [menu]
 
 ### main menu ###
-[[menu.main]]
-name = "About"
-URL = "about/"
-weight = 1
 
 [[menu.main]]
 name = "Works"
 URL = "works/"
+weight = 1
+
+[[menu.main]]
+name = "Blog"
+URL = "blog/"
 weight = 2
+
+[[menu.main]]
+name = "About"
+URL = "about/"
+weight = 3
 
 [[menu.main]]
 name = "Links"
 URL = "links/"
-weight = 3
+weight = 4
 
 ### footer menu ###
-[[menu.footer]]
-name = "About"
-URL = "about/"
-weight = 1
 
 [[menu.footer]]
 name = "Works"
 URL = "works/"
+weight = 1
+
+[[menu.main]]
+name = "Blog"
+URL = "blog/"
 weight = 2
+
+[[menu.footer]]
+name = "About"
+URL = "about/"
+weight = 3
 
 [[menu.footer]]
 name = "Links"
@@ -88,16 +100,16 @@ weight = 3
 logo = "images/logo.png"
 home = "home"
 ### Meta data ###
-description = "これはサンプルページです"
-author = "yukatayu"
+description = "ボイロキッチン投稿をしています。VSTプラグイン作成、創作者向けの素材作成などをしたいです。"
+author = "Cheke Girl"
 ### Google Analitycs ###
-googleAnalitycsID = "Your ID"
+# googleAnalitycsID = "Your ID"
 ### Contact Information ###
-# mobile = "0124857985320"
+#mobile = "012345678910"
 # email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+# location = "Dhaka, Bangladedsh"
 ### copyright ###
-copyright = "&copy; 2023 yukatayu"
+copyright = "&copy; 2023 Cheke Girl"
 
 ### Preloader ###
 [params.preloader]
@@ -122,29 +134,26 @@ expire_days = 2
 
 
 ############################# social site ########################
+
+# themify icon : https://themify.me/themify-icons
+
 [[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+title = "niconico"
+icon = "ti-desktop"
+link = "https://www.nicovideo.jp/user/120083517/video"
+
+[[params.social]]
+title = "youtube"
+icon = "ti-youtube" 
+link = "https://www.youtube.com/channel/UCT625s29DoKiSUHNZOax6pQ"
 
 [[params.social]]
 title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+icon = "ti-twitter-alt"
+link = "https://twitter.com/cheke_girl"
 
 [[params.social]]
 title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
-
+icon = "ti-github"
+link = "https://github.com/chekegirl/"
 

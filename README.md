@@ -13,6 +13,7 @@ categories: [ "hugo" ]
 tags: [ "hello", "world" ]
 image: images/promotion.png
 type: post
+keywords: [ "検索に引っ掛けたい", "キーワードなどを", "こんな感じで追加" ]
 ```
 
 - `type: post` の物は，トップページの一覧の部分に表示される
@@ -28,3 +29,7 @@ GitHubのリポジトリ設定で， Actions > General > Workflow permissions �
 ```shell
 hugo serve --disableFastRender
 ```
+
+`hugo new blog/yaseta.md`　ってするとブログを追加できる。
+
+必要に応じて， `draft: false` にする

@@ -157,3 +157,7 @@ title = "github"
 icon = "ti-github"
 link = "https://github.com/chekegirl/"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

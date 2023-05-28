@@ -8,4 +8,17 @@ tags: [ "素材", "シーンチェンジ" ]
 type: post
 ---
 
-これはまた更新する
+普段、「ウナきり☆卓上フライヤー生活！」という動画シリーズを投稿しています。その中で使用している個人的に制作したシーンチェンジ素材２つを公開しようと思います。あまりにも汎用性がなさそう！
+
+### 素材のダウンロードリンク
+
+<span style="color: red; ">↓↓↓以下よりダウンロード↓↓↓</span>
+
+音街ウナ卓上フライヤーぶちまけ : https://ux.getuploader.com/chekegirl/download/1
+
+東北きりたん揚げ物持ちクルクル : https://ux.getuploader.com/chekegirl/download/2
+
+ミラー : https://www.dropbox.com/sh/v6k0ube3nmvrogn/AAB9GkzxP_lArp3onws1BWkCa?dl=0
+
+README.txtを読んで使ってください。
+

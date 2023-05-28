@@ -100,7 +100,7 @@ weight = 3
 logo = "images/logo.png"
 home = "home"
 ### Meta data ###
-description = "ボイロキッチン投稿をしています。VSTプラグイン作成、創作者向けの素材作成などをしたいです。"
+description = "ボイロキッチン投稿をしています。VSTプラグイン作成を試みています。また、創作者向けの素材作成などをしたいです。"
 author = "Cheke Girl"
 ### Google Analitycs ###
 # googleAnalitycsID = "Your ID"

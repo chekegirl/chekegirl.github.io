@@ -5,7 +5,7 @@ draft: false
 categories: [ "解説" ]
 tags: [ "niconico", "素材", "解説動画" ]
 image: "images/works/kaisetu1_toukakaisetu/samune.jpg"
-type: featured
+type: post
 ---
 
 動画(niconico) : 

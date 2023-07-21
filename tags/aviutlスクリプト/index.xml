@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aviutlスクリプト on ちぇけガールのホームページ</title><link>https://chekegirl.github.io/tags/aviutl%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88/</link><description>Recent content in Aviutlスクリプト on ちぇけガールのホームページ</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Tue, 18 Jul 2023 04:11:47 +0900</lastBuildDate><atom:link href="https://chekegirl.github.io/tags/aviutl%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88/index.xml" rel="self" type="application/rss+xml"/><item><title>【Aviutlスクリプト】目次を背景付きで綺麗に表示できるスクリプトとサンプルテーマ</title><link>https://chekegirl.github.io/works/aviutlscript1_mokujihyouji/</link><pubDate>Tue, 18 Jul 2023 04:11:47 +0900</pubDate><guid>https://chekegirl.github.io/works/aviutlscript1_mokujihyouji/</guid><description>目次を良い感じに表示し、さらに背景を良い感じに付ける事ができるAviutl向けの目次表示スクリプトを作成しました。
+このスクリプトでは、マークダウンと似て非なる記法により目次を体系だった表示にすることが出来ます。
+また、背景テーマを読み込むことにより綺麗に背景を自動表示することができます。背景テーマを自分で作る事も手軽に行えます。
+ダウンロード： https://github.com/chekegirl/AviutlScript_MokujiHyouji/releases/tag/v1.0
+これは何？何ができるの？ 気の利いた背景をつけた状態で、目次を手軽に表示することができるAviutl向けのスクリプトです。
+こんな感じで、目次を綺麗に、背景付きで表示できます。
+また、
+項目番号を変えると、自動で項目を折りたたんだり、背景を調整したりして表示してくれます。</description></item></channel></rss>

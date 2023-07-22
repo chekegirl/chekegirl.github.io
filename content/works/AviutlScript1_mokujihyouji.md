@@ -1,14 +1,14 @@
 ---
-title: "【Aviutlスクリプト】目次を背景付きで綺麗に表示できるスクリプトとサンプルテーマ"
+title: "【Aviutlスクリプト】『目次表示システム』目次を背景付きで綺麗に表示できるスクリプトとサンプルテーマ"
 date: 2023-07-18T04:11:47+09:00
 draft: false
 categories: [ "素材配布" ]
-tags: [ "Aviutlスクリプト", "Aviutl", "目次表示", "音街ウナ"]
-image: "images/works/AviutlScript1_mokujihyouji/Whole/samune.png"
+tags: [ "Aviutlスクリプト", "Aviutl", "目次表示システム", "音街ウナ"]
+image: "images/works/AviutlScript1_mokujihyouji/Whole/thumbnail.png"
 type: featured
 ---
 
-目次を良い感じに表示し、さらに背景を良い感じに付ける事ができる[Aviutl](http://spring-fragrance.mints.ne.jp/aviutl/)向けの[目次表示スクリプト](https://github.com/chekegirl/AviutlScript_MokujiHyouji/releases/tag/v1.0)を作成しました。
+目次を良い感じに表示し、さらに背景を良い感じに付ける事ができる[Aviutl](http://spring-fragrance.mints.ne.jp/aviutl/)向けのスクリプト([目次表示システム](https://github.com/chekegirl/AviutlScript_MokujiHyouji/releases/tag/v1.0))を作成しました。
 
 このスクリプトでは、マークダウンと似て非なる記法により目次を体系だった表示にすることが出来ます。
 
@@ -32,7 +32,7 @@ type: featured
 
 # 導入方法
 
-[Aviutl version1.10](http://spring-fragrance.mints.ne.jp/aviutl/)、[拡張編集version0.92](http://spring-fragrance.mints.ne.jp/aviutl/)に対して目次表示スクリプトを導入する方法について説明します。
+[Aviutl version1.10](http://spring-fragrance.mints.ne.jp/aviutl/)、[拡張編集version0.92](http://spring-fragrance.mints.ne.jp/aviutl/)に対して目次表示システムを導入する方法について説明します。
 
 ## Aviutlと拡張編集Plugin
 
@@ -53,19 +53,19 @@ type: featured
 ![rikkymodule](/images/works/AviutlScript1_mokujihyouji/dounyuu/rikky_module_dounyuu.png)
 
 
-## 目次表示スクリプトの導入
+## 目次表示システムの導入
 
-あとは、``script``フォルダ内に[目次表示スクリプト](https://github.com/chekegirl/AviutlScript_MokujiHyouji/releases/tag/v1.0)を貼り付けます。
+あとは、``script``フォルダ内に[目次表示システム](https://github.com/chekegirl/AviutlScript_MokujiHyouji/releases/tag/v1.0)を貼り付けます。
 
 ダウンロード： https://github.com/chekegirl/AviutlScript_MokujiHyouji/releases/tag/v1.0
 
-![目次表示anm](/images/works/AviutlScript1_mokujihyouji/dounyuu/mokujihyouji_script.png)
+![目次表示anm](/images/works/AviutlScript1_mokujihyouji/dounyuu/MokujiSystemToScript.png)
 
 これで導入は完了しました。
 
 # 目次を表示するまで
 
-目次表示スクリプトを導入した後、目次を実際に表示する方法について説明します。
+目次表示システムを導入した後、目次を実際に表示する方法について説明します。
 
 ## スクリプトの適用
 
@@ -73,7 +73,7 @@ Aviutlのテキストオブジェクトを用います。
 
 ここに、アニメーション効果を追加し、目次表示を選択します。
 
-![目次表示適用](/images/works/AviutlScript1_mokujihyouji/HyoujiMade/TextAndAnimation.png)
+![目次表示適用](/images/works/AviutlScript1_mokujihyouji/HyoujiMade/TextAnimation.png)
 
 ## 目次テキストを書く
 
@@ -120,21 +120,21 @@ Aviutlのテキストオブジェクトを用います。
 
 「設定」から「背景を表示する」にチェックを入れます。
 
-![目次表示背景表示](/images/works/AviutlScript1_mokujihyouji/HyoujiMade/BackImageCheck.png)
+![目次表示背景表示](/images/works/AviutlScript1_mokujihyouji/HyoujiMade/BackImageCheckSys.png)
 
 「背景フォルダ」ボタンをクリックし、背景テーマのフォルダを選択します。
 
-![目次表示背景選択](/images/works/AviutlScript1_mokujihyouji/HyoujiMade/ChooseFold.png)
+![目次表示背景選択](/images/works/AviutlScript1_mokujihyouji/HyoujiMade/ChooseFoldSys.png)
 
 ここで、パラメータを良い感じに設定してみると...
 
-![目次表示Param](/images/works/AviutlScript1_mokujihyouji/HyoujiMade/ParamSet.png)
+![目次表示Param](/images/works/AviutlScript1_mokujihyouji/HyoujiMade/ParamSetSys.png)
 
 これで、次のように表示されるはず。
 
 ![目次背景付できた～](/images/works/AviutlScript1_mokujihyouji/HyoujiMade/BackImagePlusAll.png)
 
-# 目次表示を使う際の設定項目
+# 目次表示システムを使う際の設定項目
 
 目次表示を行った後、表示内容を調整したくなった際に弄る設定項目について説明します。
 

@@ -4,7 +4,7 @@ date: 2023-07-18T04:11:47+09:00
 draft: false
 categories: [ "素材配布" ]
 tags: [ "Aviutlスクリプト", "Aviutl", "目次表示システム", "音街ウナ"]
-image: "images/works/AviutlScript1_mokujihyouji/Whole/thumbnail.png"
+image: "images/works/AviutlScript1_mokujihyouji/Whole/thumbnail2.png"
 type: featured
 ---
 
@@ -20,13 +20,13 @@ type: featured
 
 気の利いた背景をつけた状態で、目次を手軽に表示することができる[Aviutl](http://spring-fragrance.mints.ne.jp/aviutl/)向けのスクリプトです。
 
-![目次の例](/images/works/AviutlScript1_mokujihyouji/WhatsThis/mokuji_rei.png)
+![目次の例](/images/works/AviutlScript1_mokujihyouji/WhatsThis/mokuji_rei_2.png)
 
 こんな感じで、目次を綺麗に、背景付きで表示できます。
 
 また、
 
-![目次の例](/images/works/AviutlScript1_mokujihyouji/WhatsThis/mokuji_rei2.png)
+![目次の例](/images/works/AviutlScript1_mokujihyouji/WhatsThis/mokuji_rei2_2.png)
 
 項目番号を変えると、自動で項目を折りたたんだり、背景を調整したりして表示してくれます。
 
@@ -132,7 +132,7 @@ Aviutlのテキストオブジェクトを用います。
 
 これで、次のように表示されるはず。
 
-![目次背景付できた～](/images/works/AviutlScript1_mokujihyouji/HyoujiMade/BackImagePlusAll.png)
+![目次背景付できた～](/images/works/AviutlScript1_mokujihyouji/HyoujiMade/BackImagePlusAll_2.png)
 
 # 目次表示システムを使う際の設定項目
 

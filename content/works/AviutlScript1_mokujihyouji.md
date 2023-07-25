@@ -5,7 +5,7 @@ draft: false
 categories: [ "素材配布" ]
 tags: [ "Aviutlスクリプト", "Aviutl", "目次表示システム", "音街ウナ"]
 image: "images/works/AviutlScript1_mokujihyouji/Whole/thumbnail2.png"
-type: featured
+type: post
 ---
 
 目次を良い感じに表示し、さらに背景を良い感じに付ける事ができる[Aviutl](http://spring-fragrance.mints.ne.jp/aviutl/)向けのスクリプト([目次表示システム](https://github.com/chekegirl/AviutlScript_MokujiHyouji/releases/tag/v1.0))を作成しました。

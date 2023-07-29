@@ -122,7 +122,7 @@ Aviutlのテキストオブジェクトを用います。
 
 ![目次表示背景表示](/images/works/AviutlScript1_mokujihyouji/HyoujiMade/BackImageCheckSys.png)
 
-「背景フォルダ」ボタンをクリックし、背景テーマのフォルダを選択します。
+「背景フォルダ」ボタンをクリックし、背景テーマのフォルダ（デフォルトの背景であれば、``..DefaultTheme￥￥〇〇``のこと）を選択します。
 
 ![目次表示背景選択](/images/works/AviutlScript1_mokujihyouji/HyoujiMade/ChooseFoldSys.png)
 
